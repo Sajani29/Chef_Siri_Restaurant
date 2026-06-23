@@ -121,19 +121,23 @@ Open `index.html` in your browser.
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+<img width="1894" height="877" alt="image" src="https://github.com/user-attachments/assets/49b95aa7-50f8-4107-b097-3606e5fd9de1" />
+
 
 ### Menu Section
 
-![Menu Section](screenshots/menu.png)
+<img width="1900" height="876" alt="image" src="https://github.com/user-attachments/assets/96f53f81-c929-470e-a09b-9b0be42d01d5" />
+
 
 ### Gallery
 
-![Gallery](screenshots/gallery.png)
+<img width="1897" height="877" alt="image" src="https://github.com/user-attachments/assets/685bc35e-f590-4f0a-9318-3b55e29d6270" />
+
 
 ### Contact Section
 
-![Contact Section](screenshots/contact.png)
+<img width="1905" height="885" alt="image" src="https://github.com/user-attachments/assets/132a2ed2-5d46-4b9e-ab92-05a04916de00" />
+
 
 ---
 
