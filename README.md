@@ -126,18 +126,18 @@ Open `index.html` in your browser.
 
 ### Menu Section
 
-<img width="1900" height="876" alt="image" src="https://github.com/user-attachments/assets/96f53f81-c929-470e-a09b-9b0be42d01d5" />
 
+<img width="1897" height="877" alt="image" src="https://github.com/user-attachments/assets/685bc35e-f590-4f0a-9318-3b55e29d6270" />
 
 ### Gallery
 
-<img width="1897" height="877" alt="image" src="https://github.com/user-attachments/assets/685bc35e-f590-4f0a-9318-3b55e29d6270" />
+<img width="1905" height="885" alt="image" src="https://github.com/user-attachments/assets/132a2ed2-5d46-4b9e-ab92-05a04916de00" />
 
 
 ### Contact Section
 
-<img width="1905" height="885" alt="image" src="https://github.com/user-attachments/assets/132a2ed2-5d46-4b9e-ab92-05a04916de00" />
 
+<img width="1900" height="876" alt="image" src="https://github.com/user-attachments/assets/96f53f81-c929-470e-a09b-9b0be42d01d5" />
 
 ---
 
